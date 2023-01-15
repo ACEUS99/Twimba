@@ -1,21 +1,8 @@
 # co0214277b9beec9994b667ea
+This project was created through the Scrimba frontend developer path course at www.scrimba.com.
 
-Quick start:
+The languages used throughout this project were HTML, CSS and Javascript.
 
-```
-$ npm install
-$ npm start
-````
+**Note: ** This was perhaps the most challenging build I completed through Scrimba but definitely the most rewarding. The heavy use of DOM for display logic and manipulation was great for understanding how to conditionally render code based on user action. All in all, this project helped me gain confidence in what I had learned through sucessfully completing the demanding challenges.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I continue to read through the code to ensure that I retain at least most of my understanding of the code.
